@@ -14,6 +14,7 @@ A very special Thanks to Mr. K Talks Tech  for the project inspiration.
 - Created a new user profile, "zuhaili"
 - Saved "zuhaili" profile's password credentials as a Secret in Azure Key Vault. 
  
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/b293bfa0-e602-4ebe-9da3-c783300bf2d4)
 ![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/1594b8af-044e-4627-80d5-cb9d0b49b494)
 
 
