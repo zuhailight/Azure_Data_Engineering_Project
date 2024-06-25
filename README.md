@@ -54,7 +54,7 @@ https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/ec
 
 
 
-# 3.	Transformation Request by Client/User (Databricks):
+# Transformation Request by Client/User (Databricks):
 Using Databrick Notebooks:
 
 - Knowing how many null values per column on a table
@@ -70,8 +70,13 @@ https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/2a
 
 ![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/eba73a72-8b21-4588-b980-bd47ba80f058)
 
+# Loading to Data Warehouse (Azure Synapse Analytics):
+- Linked  data with ADLS Gen2  
+- Develop SQL scripts to Load data to Azure Synapse Analytics Data Warehouse SQL database (workspace)
+- using Serverless SQL pool to run  Pipeline (Get Metada, ForEach & Stored Procedure activities from the SQL scripts)  to create Views in SQL database (Workspace)
+  
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/1d28fa0e-c462-4fa2-b601-b34cc162bdd2)
 
-
-
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/b1e833c4-3f48-4e7b-80fc-9fa010eeeb0c)
 
 
