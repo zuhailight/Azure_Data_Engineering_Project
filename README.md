@@ -79,4 +79,18 @@ https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/2a
 
 ![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/b1e833c4-3f48-4e7b-80fc-9fa010eeeb0c)
 
+# 5.	Reporting and Visualization (Power BI):
+
+- Connect Power BI to Azure Synapse Analytics SQL Views to access the clean data for reporting.
+- Develop interactive dashboards and reports in Power BI to visualize key metrics and insights.
+
+![bi edit 2](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/3a2a480a-2ee5-4128-9cbb-569ee655631e)
+
+# Security and data governance
+- Use Key Vault Secret to securely save password
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/86064ed3-ebfe-4e90-a8c2-fabb23833ab1)
+
+  
+- Use Mircosoft Entra ID (use to know as Azure Active Directory ) to set up Group and  add new user. (avoid to create new user and create  role assignments frequently)
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/20f58480-5ea6-4450-af5d-ef9b5618d484)
 
