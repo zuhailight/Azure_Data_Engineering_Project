@@ -16,11 +16,6 @@ Saved "zuhaili" profile's password credentials as a Secret in Azure Key Vault.
 
 ![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/1594b8af-044e-4627-80d5-cb9d0b49b494)
 
-![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/d2d85658-7cbc-4879-8bb0-a4d5b120effc)
-
-![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/0bc39590-c52b-49d0-82ed-286b9d97b557)
-
-
 
 # Data Ingestion (ADF Pipeline):
 
@@ -29,6 +24,11 @@ In the ADF pipeline set a Lookup activity and ForEach to automated the process t
 Where each table have their own directory folder based on the table name inside the RAW01 container 
 
 ![pipeline adf](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/23912104-59d1-47a2-b995-f3ffab6c98a8)
+
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/d2d85658-7cbc-4879-8bb0-a4d5b120effc)
+
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/0bc39590-c52b-49d0-82ed-286b9d97b557)
+
 
 #  Data Cleaning & Transformation by (Databricks):
 Using Databricks Notebooks:
