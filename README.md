@@ -45,6 +45,13 @@ Using Databricks Notebooks:
 
 https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/eca22d40-ee74-4d01-9174-c04c1463f547
 
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/571f25ee-6c12-498a-b1ba-1fc4e7d4ade2)
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/d7e09bf0-e83c-46b3-aafc-05bd008c495c)
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/b6003a74-50e6-4005-a889-a7cc0dd98135)
+
+
+
+
 
 # 3.	Transformation Request by Client/User (Databricks):
 Using Databrick Notebooks:
@@ -59,6 +66,11 @@ https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/70
 
 
 https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/2a4e4069-2898-4176-bf7b-4ad64c150196
+
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/eba73a72-8b21-4588-b980-bd47ba80f058)
+
+
+
 
 
 
