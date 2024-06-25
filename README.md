@@ -25,12 +25,15 @@ Where each table have their own directory folder based on the table name inside 
 ![pipeline adf](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/23912104-59d1-47a2-b995-f3ffab6c98a8)
 
 #  Data Cleaning & Transformation by (Databricks):
-Using Databricks Notebooks 
+Using Databricks Notebooks:
 
-> Mount Azure Data Lake Gen2 to DBFS using credential passthrough
-> Change all the column name to a proper name
-> Clean all the date data to daydate format DD/MM/YYYY
-> output to transform01 folder 
+ - Mount Azure Data Lake Gen2 to DBFS using credential passthrough
+ - Change all the column name to a proper name
+ -  Clean all the date data to daydate format DD/MM/YYYY
+ -  Output to transform01 folder 
+ 
+
+ 
 
 https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/eca22d40-ee74-4d01-9174-c04c1463f547
 
