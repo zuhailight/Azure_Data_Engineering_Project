@@ -16,6 +16,12 @@ Saved "zuhaili" profile's password credentials as a Secret in Azure Key Vault.
 
 ![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/1594b8af-044e-4627-80d5-cb9d0b49b494)
 
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/d2d85658-7cbc-4879-8bb0-a4d5b120effc)
+
+![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/0bc39590-c52b-49d0-82ed-286b9d97b557)
+
+
+
 # Data Ingestion (ADF Pipeline):
 
 Set up pipelines for ingesting data (Self-hosted Integration Runtime) from On-premises SQL Server Database using Azure Data Factory (ADF). 
@@ -36,5 +42,22 @@ Using Databricks Notebooks:
  
 
 https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/eca22d40-ee74-4d01-9174-c04c1463f547
+
+
+# 3.	Transformation Request by Client/User (Databricks):
+Using Databrick Notebooks:
+
+- Knowing how many null values per column on a table
+- Rank the total sales per product (Join table and Rank transformation)
+
+ Load the processed data from the TRANSFORM container into CLIENT container in ADLS Gen2.
+  
+
+
+https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/70055ad4-c9b4-4c3c-9ebf-8dd74ccf216d
+
+
+https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/2a4e4069-2898-4176-bf7b-4ad64c150196
+
 
 
