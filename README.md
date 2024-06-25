@@ -95,3 +95,8 @@ https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/2a
 - Use Mircosoft Entra ID (use to know as Azure Active Directory ) to set up Group and  add new user. (avoid to create new user and create  role assignments frequently)
 ![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/20f58480-5ea6-4450-af5d-ef9b5618d484)
 
+# 7.	Run ADF PIPELINE to automated all this procedure with Trigger at specific time to update any changes in the SQL Server database.
+- Implement data refresh Pipeline Schedules Triggers where any changes in the tables inside the database on SQL Server (for example, added new row) the Power Bi dashboard will be updated showing the current data
+- The trigger will be set on each end of every month
+
+  ![schedule Trigger setting](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/34f56b32-60ff-4c1a-a559-29c4efc31d45)
