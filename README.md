@@ -38,7 +38,7 @@ Using Databricks Notebooks:
  - Mount Azure Data Lake Gen2 to DBFS using credential passthrough
  - Change all the column name to a proper name
  -  Clean all the date data to daydate format DD/MM/YYYY
- -  Output to transform01 folder 
+ -  Output to transform01 folder where each table is format as Delta format (for log/history) and they have their own directory folder based on the table name same as the RAW01 container.
  
 
  
