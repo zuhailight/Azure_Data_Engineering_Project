@@ -26,7 +26,8 @@ A very special Thanks to Mr. K Talks Tech  for the project inspiration.
 
 
 
-![pipeline adf](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/23912104-59d1-47a2-b995-f3ffab6c98a8)
+![pipeline adf](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/5b7f0240-036e-4ff2-9374-3e3c73c2eb03)
+
 
 ![image](https://github.com/zuhailight/Azure_Data_Engineering_Project/assets/102891795/d2d85658-7cbc-4879-8bb0-a4d5b120effc)
 
